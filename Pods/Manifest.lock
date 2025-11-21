@@ -1,0 +1,30 @@
+PODS:
+  - FMModuleA (0.0.1):
+    - FMModuleBase
+    - FMModuleCenter
+  - FMModuleB (0.0.1):
+    - FMModuleBase
+    - FMModuleCenter
+  - FMModuleBase (0.0.1)
+  - FMModuleCenter (0.0.1)
+
+DEPENDENCIES:
+  - FMModuleA
+  - FMModuleB
+
+SPEC REPOS:
+  https://github.com/MrLfm/FMModuleLibrary.git:
+    - FMModuleA
+    - FMModuleB
+    - FMModuleBase
+    - FMModuleCenter
+
+SPEC CHECKSUMS:
+  FMModuleA: 4f74e1bb8aa28bcbbb869eba6c17859c2c148552
+  FMModuleB: 497f6d7f3b543de015a0e8c06857061bc6f736a0
+  FMModuleBase: 54a014a7ac5d40ee7867e031f777f9d090c69118
+  FMModuleCenter: ba85c651b5d6410a87d64bede7d0e9f8c68910c5
+
+PODFILE CHECKSUM: 0d16e5aff63b58f742a8bf8f5d7d27f1b365421a
+
+COCOAPODS: 1.16.2

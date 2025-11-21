@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-FMApp/Pods-FMApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FMModuleA/FMModuleA.framework
+${BUILT_PRODUCTS_DIR}/FMModuleB/FMModuleB.framework
+${BUILT_PRODUCTS_DIR}/FMModuleBase/FMModuleBase.framework
+${BUILT_PRODUCTS_DIR}/FMModuleCenter/FMModuleCenter.framework
